@@ -21,3 +21,8 @@ div {
   text-shadow: 0 0 3px #fff;
   cursor: pointer;
 }
+@media (max-width: 600px) {
+  body {
+    font-size: 30px;
+  }
+}
